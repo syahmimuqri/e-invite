@@ -543,6 +543,10 @@ button:focus,
   text-align: center;
   line-height: 38px;
 }
+.footer-main .block ul.social-icon li a i {
+  position: relative;
+  top: 10px;
+}
 @media (max-width: 768px) {
   .footer-main .block {
     margin-bottom: 40px;
